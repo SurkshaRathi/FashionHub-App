@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "863175831501",
+    "firebase_url": "https://flightappp.firebaseio.com",
+    "project_id": "flightappp",
+    "storage_bucket": "flightappp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863175831501:android:bbdc1ac7b7a5a190",
+        "android_client_info": {
+          "package_name": "com.example.fastionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863175831501-nldrhmfvke1ngshlsdu9ps8qsppiant8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastionapp",
+            "certificate_hash": "2eda57b4e41a50a251207afc04e651e3fe7dcc0e"
+          }
+        },
+        {
+          "client_id": "863175831501-97188k05c77mlvuddvet2lk73tech9he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaJSuZxwcVVK2y60bhRECUm3tSR4WT24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863175831501-97188k05c77mlvuddvet2lk73tech9he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
